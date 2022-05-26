@@ -5,8 +5,8 @@ This repo is to test the deploy to Vercel
 ## Test local
 
 ```
-virtualenv ~/.ve/vercel
-source ~/.ve/vercel/bin/activate
+virtualenv .ve/vercel
+/.ve/vercel/bin/activate
 pip install -r requirements.txt
 FLASK_APP=index.py flask run
 
