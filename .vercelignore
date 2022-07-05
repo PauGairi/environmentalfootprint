@@ -1,0 +1,12 @@
+# Ignore everything (folders and files) on root only
+/*
+!templates
+!static
+!uploads
+!img
+!*.html
+!*.json
+!*.py
+!Environment.png
+!*.ttf
+!*.txt
